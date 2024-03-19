@@ -1,0 +1,272 @@
+27840   1     2     1  U COMPNT OF WIND AFTER TIMESTEP      101: 1: 1: 0: 0:   1           0
+27648   1     3    39  V COMPNT OF WIND AFTER TIMESTEP      101: 1: 1: 0: 0:   1           0
+27840   1     4    77  THETA AFTER TIMESTEP                 101: 1: 1: 0: 0:   1           0
+10145   1     9   115  SOIL MOISTURE CONTENT IN A LAYER     101: 1: 1: 0: 0:   1           0
+27840   1    10   121  SPECIFIC HUMIDITY AFTER TIMESTEP     101: 1: 1: 0: 0:   1           0
+27840   1    12   159  QCF AFTER TIMESTEP                   101: 1: 1: 0: 0:   1           0
+27840   2    14   197  CONV CLOUD BASE LEVEL NO. AFTER TS   101: 1: 1: 0: 0:   1           0
+27840   2    15   198  CONV CLOUD TOP LEVEL NO. AFTER TS    101: 1: 1: 0: 0:   1           0
+27840   1    16   199  CONV CLOUD LIQUID WATER PATH         101: 1: 1: 0: 0:   1           0
+10145   1    17   200  SILHOUETTE OROGRAPHIC ROUGHNESS      101: 1: 1: 0: 0:   1           0
+10145   1    18   201  HALF OF  (PEAK TO TROUGH HT OF OROG) 101: 1: 1: 0: 0:   1           0
+10145   1    20   202  DEEP SOIL TEMP AFTER TIMESTEP        101: 1: 1: 0: 0:   1           0
+10145   1    22   208  CANOPY WATER AFTER TIMESTEP    KG/M2 101: 1: 1: 0: 0:   1           0
+27840   1    23   209  SNOW AMOUNT OVER LAND AFT TSTP KG/M2 101: 1: 1: 0: 0:   1           0
+27840   1    24   210  SURFACE TEMPERATURE AFTER TIMESTEP   101: 1: 1: 0: 0:   1           0
+27840   1    25   211  BOUNDARY LAYER DEPTH AFTER TIMESTEP  101: 1: 1: 0: 0:   1           0
+27840   1    26   212  ROUGHNESS LENGTH AFTER TIMESTEP      101: 1: 1: 0: 0:   1           0
+27840   1    28   213  SURFACE ZONAL CURRENT AFTER TIMESTEP 101: 1: 1: 0: 0:   1           0
+27648   1    29   214  SURFACE MERID CURRENT AFTER TIMESTEP 101: 1: 1: 0: 0:   1           0
+27840   3    30   215  LAND MASK (No halo) (LAND=TRUE)      101: 1: 1: 0: 0:   1           0
+27840   1    31   216  FRAC OF SEA ICE IN SEA AFTER TSTEP   101: 1: 1: 0: 0:   1           0
+27840   1    32   217  SEA ICE DEPTH (MEAN OVER ICE)      M 101: 1: 1: 0: 0:   1           0
+27840   1    33   218  OROGRAPHY (/STRAT LOWER BC)          101: 1: 1: 0: 0:   1           0
+10145   1    34   219  STANDARD DEVIATION OF OROGRAPHY      101: 1: 1: 0: 0:   1           0
+10145   1    35   220  OROGRAPHIC GRADIENT XX COMPONENT     101: 1: 1: 0: 0:   1           0
+10145   1    36   221  OROGRAPHIC GRADIENT XY COMPONENT     101: 1: 1: 0: 0:   1           0
+10145   1    37   222  OROGRAPHIC GRADIENT YY COMPONENT     101: 1: 1: 0: 0:   1           0
+10145   1    40   223  VOL SMC AT WILTING AFTER TIMESTEP    101: 1: 1: 0: 0:   1           0
+10145   1    41   224  VOL SMC AT CRIT PT AFTER TIMESTEP    101: 1: 1: 0: 0:   1           0
+10145   1    43   225  VOL SMC AT SATURATION AFTER TIMESTEP 101: 1: 1: 0: 0:   1           0
+10145   1    44   226  SAT SOIL CONDUCTIVITY AFTER TIMESTEP 101: 1: 1: 0: 0:   1           0
+10145   1    46   227  THERMAL CAPACITY AFTER TIMESTEP      101: 1: 1: 0: 0:   1           0
+10145   1    47   228  THERMAL CONDUCTIVITY AFTER TIMESTEP  101: 1: 1: 0: 0:   1           0
+10145   1    48   229  SATURATED SOIL WATER SUCTION      ** 101: 1: 1: 0: 0:   1           0
+27840   1    49   230  SEA-ICE TEMPERATURE AFTER TIMESTEP   101: 1: 1: 0: 0:   1           0
+27840   1    58   231  SULPHUR DIOXIDE EMISSIONS            101: 1: 1: 0: 0:   1           0
+27840   1    59   232  DIMETHYL SULPHIDE EMISSIONS (ANCIL)  101: 1: 1: 0: 0:   1           0
+  145   1    60   233  OZONE                             ** 101: 1: 1: 0: 0:   1           0
+27840   1    95   271  SNOW AMOUNT OVR SEAICE AFT TS  KG/M2 101: 1: 1: 0: 0:   1           0
+27840   1   101   272  SO2 MASS MIXING RATIO  AFTER TSTEP   101: 1: 1: 0: 0:   1           0
+27840   1   102   310  DIMETHYL SULPHIDE MIX RAT AFTER TS   101: 1: 1: 0: 0:   1           0
+27840   1   103   348  SO4 AITKEN MODE AEROSOL AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   104   386  SO4 ACCUM. MODE AEROSOL AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   105   424  SO4 DISSOLVED AEROSOL AFTER TSTEP    101: 1: 1: 0: 0:   1           0
+27840   1   106   462  H2O2 MASS MIXING RATIO AFTER TSTEP   101: 1: 1: 0: 0:   1           0
+27840   1   107   500  NH3 MASS MIXING RATIO  AFTER TSTEP   101: 1: 1: 0: 0:   1           0
+27840   1   108   538  FRESH SOOT MASS MIX RAT AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   109   576  AGED SOOT MASS MIX RAT  AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   110   614  CLOUD SOOT MASS MIX RAT AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   111   652  FRESH BIOMASS SMOKE     AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   112   690  AGED BIOMASS SMOKE      AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   113   728  CLOUD BIOMASS SMOKE     AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   114   766  FRESH OCFF MASS MIX RAT AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   115   804   AGED OCFF MASS MIX RAT AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   116   842  CLOUD OCFF MASS MIX RAT AFTER TSTEP  101: 1: 1: 0: 0:   1           0
+27840   1   121   880  3D NATURAL SO2 EMISSIONS KG/M2/S     101: 1: 1: 0: 0:   1           0
+27840   1   122   918  3D OH CONCENTRATIONS IN MCULES/CC    101: 1: 1: 0: 0:   1           0
+27840   1   123   956  3D HO2 CONCENTRATIONS IN MCULES/CC   101: 1: 1: 0: 0:   1           0
+27840   1   124   994  3D H2O2 MIX RATIO LIMIT FIELD        101: 1: 1: 0: 0:   1           0
+27840   1   125  1032  3D OZONE MIX RAT FOR SULPHUR CYCLE   101: 1: 1: 0: 0:   1           0
+27840   1   126  1070  HIGH LEVEL  SO2 EMISSIONS KG/M2/S    101: 1: 1: 0: 0:   1           0
+27840   1   129  1071  FRESH SOOT HI LEV EMISS KG/M2/S      101: 1: 1: 0: 0:   1           0
+27840   1   130  1072  FRESH BIOMASS SURF EMISS KG/M2/S     101: 1: 1: 0: 0:   1           0
+27840   1   131  1073  FRESH BIOMASS HI LEV EMISS KG/M2/S   101: 1: 1: 0: 0:   1           0
+27840   1   132  1074  DMS CONCENTRATION IN SEAWATER        101: 1: 1: 0: 0:   1           0
+27840   1   135  1075  FRESH OCFF HI LEV EMISS KG/M2/S      101: 1: 1: 0: 0:   1           0
+27840   1   150  1076  W COMPNT OF WIND AFTER TIMESTEP      101: 1: 1: 0: 0:   1           0
+64800   1   151  1115  RIVER SEQUENCE                       101: 1: 1: 0: 0:   1           0
+64800   1   152  1116  RIVER DIRECTION                      101: 1: 1: 0: 0:   1           0
+64800   1   153  1117  RIVER WATER STORAGE               M2 101: 1: 1: 0: 0:   1           0
+10865   1   155  1118  ACCUMULATED SURFACE RUNOFF     KG/M2 101: 1: 1: 0: 0:   1           0
+10865   1   156  1119  ACCUMULATED SUB-SURFACE RUNOFF KG/M2 101: 1: 1: 0: 0:   1           0
+27840   1   157  1120  GRIDBOX AREAS                     M2 101: 1: 1: 0: 0:   1           0
+27840   1   171  1121  NET DN SW RAD FLUX:OPEN SEA: CPL     101: 1: 1: 0: 0:   1           0
+27840   1   172  1122  NET DWN SFC SW FLUX BLW 690NM: CPL   101: 1: 1: 0: 0:   1           0
+27840   1   173  1123  NET DOWN SURFACE LW RAD FLUX: CPL    101: 1: 1: 0: 0:   1           0
+27840   1   174  1124  NET DN LW RAD FLUX:OPEN SEA: CPL     101: 1: 1: 0: 0:   1           0
+27840   1   176  1125  X-COMP SURF & BL WIND STR: CPL N/M2  101: 1: 1: 0: 0:   1           0
+27648   1   177  1126  Y-COMP SURF & BL WIND STRL CPL N/M2  101: 1: 1: 0: 0:   1           0
+27840   1   178  1127  WIND MIX EN'GY FL TO SEA: CPL W/M2   101: 1: 1: 0: 0:   1           0
+27840   1   179  1128  SFC SH FLX FROM OPEN SEA: CPL W/M2   101: 1: 1: 0: 0:   1           0
+27840   1   180  1129  SUBLIM. SURFACE (GBM): CPL  KG/M2/TS 101: 1: 1: 0: 0:   1           0
+27840   1   181  1130  EVAP FROM OPEN SEA: CPL KG/M2/S      101: 1: 1: 0: 0:   1           0
+27840   1   184  1131  Heat flx through sea ice (W/m2): CPL 101: 1: 1: 0: 0:   1           0
+27840   1   185  1136  Heat flx in sea ice surface mlt: CPL 101: 1: 1: 0: 0:   1           0
+27840   1   186  1141  LARGE SCALE RAIN RATE: CPL   KG/M2/S 101: 1: 1: 0: 0:   1           0
+27840   1   187  1142  LARGE SCALE SNOW RATE: CPL   KG/M2/S 101: 1: 1: 0: 0:   1           0
+27840   1   188  1143  CONVECTIVE RAIN RATE: CPL    KG/M2/S 101: 1: 1: 0: 0:   1           0
+27840   1   189  1144  CONVECTIVE SNOW RATE: CPL    KG/M2/S 101: 1: 1: 0: 0:   1           0
+27840   1   192  1145  River Runoff:                   CPL  101: 1: 1: 0: 0:   1           0
+10145   1   207  1146  CLAPP-HORNBERGER "B" COEFFICIENT     101: 1: 1: 0: 0:   1           0
+27840   1   211  1147  CCA WITH ANVIL AFTER TIMESTEP        101: 1: 1: 0: 0:   1           0
+10145   1   213  1185  CANOPY CONDUCTANCE AFTER TIMESTEP    101: 1: 1: 0: 0:   1           0
+10145   1   214  1186  UNFROZEN SOIL MOISTURE FRAC AFTER TS 101: 1: 1: 0: 0:   1           0
+10145   1   215  1192  FROZEN SOIL MOISTURE FRAC AFTER TS   101: 1: 1: 0: 0:   1           0
+10145   1   216  1198  FRACTIONS OF SURFACE TYPES           101: 1: 1: 0: 0:   1           0
+10145   1   217  1215  LEAF AREA INDEX OF PLANT FUNC TYPES  101: 1: 1: 0: 0:   1           0
+10145   1   218  1228  CANOPY HEIGHT OF PLANT FUNC TYPES M  101: 1: 1: 0: 0:   1           0
+10145   1   220  1241  SNOW-FREE ALBEDO OF SOIL             101: 1: 1: 0: 0:   1           0
+27840   1   222  1242  NET ENERGY CHANGE THIS PERIOD J/M**2 101: 1: 1: 0: 0:   1           0
+10145   1   223  1243  SOIL CARBON CONTENT       KG C / M2  101: 1: 1: 0: 0:   1           0
+10145   1   224  1244  SOIL RESPIRATION ON TILES (CASA-CNP) 101: 1: 1: 0: 0:   1           0
+10145   1   225  1261  ACCUMULATED LEAF TURNOVER RATE PFTS  101: 1: 1: 0: 0:   1           0
+10145   1   227  1274  PLANT RESPIRATION ON TILES (CASA)    101: 1: 1: 0: 0:   1           0
+10145   1   228  1291  NET PRIMARY PRODUCTIVITY (NPP)       101: 1: 1: 0: 0:   1           0
+10145   1   229  1308  CANOPY WATER ON TILES  KG/M2         101: 1: 1: 0: 0:   1           0
+10145   1   230  1325  CANOPY CAPACITY ON TILES  KG/M2      101: 1: 1: 0: 0:   1           0
+10145   1   233  1342  SURFACE TEMPERATURE ON TILES       K 101: 1: 1: 0: 0:   1           0
+10145   1   234  1359  ROUGHNESS LENGTH ON TILES          M 101: 1: 1: 0: 0:   1           0
+27840   1   235  1376  NET MOISTURE FLUX IN PERIOD KG/M**2  101: 1: 1: 0: 0:   1           0
+10145   1   236  1377  TILE MODIFIED INFILTRATION RATE      101: 1: 1: 0: 0:   1           0
+10145   1   237  1394  DOWNWARD SW RADIATION ON TILES  W/M2 101: 1: 1: 0: 0:   1           0
+27840   1   238  1411  SURFACE DOWNWARD LW RADIATION   W/M2 101: 1: 1: 0: 0:   1           0
+27840   1   239  1412  TOA - SURF UPWARD LW RADIATION  W/M2 101: 1: 1: 0: 0:   1           0
+10145   1   240  1413  SNOW AMOUNT ON TILES           KG/M2 101: 1: 1: 0: 0:   1           0
+27840   1   250  1430  CO2 OCEAN FLUX             KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1   251  1431  CO2 SURFACE EMISSIONS      KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1   252  1432  CO2 3D TRACER      MASS MIXING RATIO 101: 1: 1: 0: 0:   1           0
+27840   1   253  1470  DENSITY*R*R AFTER TIMESTEP           101: 1: 1: 0: 0:   1           0
+27840   1   254  1508  QCL AFTER TIMESTEP                   101: 1: 1: 0: 0:   1           0
+27840   1   255  1546  EXNER PRESSURE (RHO) AFTER TIMESTEP  101: 1: 1: 0: 0:   1           0
+27840   1   256  1585  ADVECTED U CMPT OF WIND AFTER TS     101: 1: 1: 0: 0:   1           0
+27648   1   257  1623  ADVECTED V CMPT OF WIND AFTER TS     101: 1: 1: 0: 0:   1           0
+27840   1   258  1661  ADVECTED W CMPT OF WIND AFTER TS     101: 1: 1: 0: 0:   1           0
+27840   2   259  1700  NUMBER OF TURBULENT MIXING LEVELS    101: 1: 1: 0: 0:   1           0
+27840   2   260  1701  LEVEL OF BASE OF DEEP STRATOCUMULUS  101: 1: 1: 0: 0:   1           0
+27840   2   261  1702  LEVEL OF TOP OF DEEP STRATOCUMULUS   101: 1: 1: 0: 0:   1           0
+27840   3   262  1703  BOUNDARY LAYER CONVECTION FLAG       101: 1: 1: 0: 0:   1           0
+27840   1   263  1704  SD TURBULENT FLUC LAYER1 TEMP        101: 1: 1: 0: 0:   1           0
+27840   1   264  1705  SD TURBULENT FLUC LAYER1 HUMIDITY    101: 1: 1: 0: 0:   1           0
+27840   1   265  1706  AREA CLOUD FRACTION IN EACH LAYER    101: 1: 1: 0: 0:   1           0
+27840   1   266  1744  BULK CLOUD FRACTION IN EACH LAYER    101: 1: 1: 0: 0:   1           0
+27840   1   267  1782  LIQUID CLOUD FRACTION IN EACH LAYER  101: 1: 1: 0: 0:   1           0
+27840   1   268  1820  FROZEN CLOUD FRACTION IN EACH LAYER  101: 1: 1: 0: 0:   1           0
+27840   1   269  1858  SURFACE ZONAL CURRENT AFTER TS PGRID 101: 1: 1: 0: 0:   1           0
+27840   1   270  1859  SURFACE MERID CURRENT AFTER TS PGRID 101: 1: 1: 0: 0:   1           0
+27840   1   290  1860  DAILY ACCUMULATED LAKE FLUX KG/M2    101: 1: 1: 0: 0:   1           0
+27840   1   351  1861  CLIM BIOGENIC AEROSOL MMR            101: 1: 1: 0: 0:   1           0
+27840   1   413  1899  Sea ice concentration by categories  101: 1: 1: 0: 0:   1           0
+27840   1   414  1904  Sea ice thickness GBM by categories  101: 1: 1: 0: 0:   1           0
+27840   1   415  1909  Sea ice surf temp by categories (K)  101: 1: 1: 0: 0:   1           0
+27840   1   416  1914  Sea ice snow depth by categories     101: 1: 1: 0: 0:   1           0
+27840   1   418  1919  Dust parent soil clay fraction (anc) 101: 1: 1: 0: 0:   1           0
+27840   1   419  1920  Dust parent soil silt fraction (anc) 101: 1: 1: 0: 0:   1           0
+27840   1   420  1921  Dust parent soil sand fraction (anc) 101: 1: 1: 0: 0:   1           0
+27840   1   421  1922  Dust soil mass fraction div 1 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   422  1923  Dust soil mass fraction div 2 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   423  1924  Dust soil mass fraction div 3 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   424  1925  Dust soil mass fraction div 4 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   425  1926  Dust soil mass fraction div 5 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   426  1927  Dust soil mass fraction div 6 (anc)  101: 1: 1: 0: 0:   1           0
+27840   1   431  1928  Dust division 1  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+27840   1   432  1966  Dust division 2  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+27840   1   433  2004  Dust division 3  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+27840   1   434  2042  Dust division 4  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+27840   1   435  2080  Dust division 5  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+27840   1   436  2118  Dust division 6  mass mixing ratio   101: 1: 1: 0: 0:   1           0
+10145   1   505  2156  Land fraction in grid box            101: 1: 1: 0: 0:   1           0
+27840   1   506  2157  LAND SURFACE TEMP AFTER TIMESTEP     101: 1: 1: 0: 0:   1           0
+27840   1   507  2158  OPEN SEA SURFACE TEMP AFTER TIMESTEP 101: 1: 1: 0: 0:   1           0
+27840   1   508  2159  SEA-ICE SURFACE TEMP AFTER TIMESTEP  101: 1: 1: 0: 0:   1           0
+27840   1   509  2160  SEA ICE ALBEDO AFTER TS              101: 1: 1: 0: 0:   1           0
+27840   1   510  2161  MEAN LAND ALBEDO AFTER TS            101: 1: 1: 0: 0:   1           0
+10145   1   511  2162  INLANDBASINFLOW ATM GRID    KG/M2/S  101: 1: 1: 0: 0:   1           0
+10145   1   801  2163  SOIL LAYER 1 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   802  2180  SOIL LAYER 2 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   803  2197  SOIL LAYER 3 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   804  2214  SOIL LAYER 4 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   805  2231  SOIL LAYER 5 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   806  2248  SOIL LAYER 6 TEMPERATURE ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   807  2265  SOIL MOISTURE LAYER 1 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   808  2282  SOIL MOISTURE LAYER 2 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   809  2299  SOIL MOISTURE LAYER 3 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   810  2316  SOIL MOISTURE LAYER 4 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   811  2333  SOIL MOISTURE LAYER 5 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   812  2350  SOIL MOISTURE LAYER 6 (ON TILES)     101: 1: 1: 0: 0:   1           0
+10145   1   813  2367  FROZEN SOIL MOIST FRAC LYR 1 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   814  2384  FROZEN SOIL MOIST FRAC LYR 2 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   815  2401  FROZEN SOIL MOIST FRAC LYR 3 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   816  2418  FROZEN SOIL MOIST FRAC LYR 4 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   817  2435  FROZEN SOIL MOIST FRAC LYR 5 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   818  2452  FROZEN SOIL MOIST FRAC LYR 6 (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   819  2469  SNOW DEPTH LAYER 1 (ON TILES)        101: 1: 1: 0: 0:   1           0
+10145   1   820  2486  SNOW DEPTH LAYER 2 (ON TILES)        101: 1: 1: 0: 0:   1           0
+10145   1   821  2503  SNOW DEPTH LAYER 3 (ON TILES)        101: 1: 1: 0: 0:   1           0
+10145   1   822  2520  SNOW MASS LAYER 1 (ON TILES)         101: 1: 1: 0: 0:   1           0
+10145   1   823  2537  SNOW MASS LAYER 2 (ON TILES)         101: 1: 1: 0: 0:   1           0
+10145   1   824  2554  SNOW MASS LAYER 3 (ON TILES)         101: 1: 1: 0: 0:   1           0
+10145   1   825  2571  SNOW TEMPERATURE LAYER 1 (ON TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   826  2588  SNOW TEMPERATURE LAYER 2 (ON TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   827  2605  SNOW TEMPERATURE LAYER 3 (ON TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   828  2622  SNOW DENSITY LAYER 1 (ON TILES)      101: 1: 1: 0: 0:   1           0
+10145   1   829  2639  SNOW DENSITY LAYER 2 (ON TILES)      101: 1: 1: 0: 0:   1           0
+10145   1   830  2656  SNOW DENSITY LAYER 3 (ON TILES)      101: 1: 1: 0: 0:   1           0
+10145   1   831  2673  SNOW MEAN DENSITY (ON TILES)         101: 1: 1: 0: 0:   1           0
+10145   1   832  2690  SNOW AGE (ON TILES)                  101: 1: 1: 0: 0:   1           0
+10145   2   833  2707  FLAG FOR 3 LEVEL SNOW SCHEME (TILED) 101: 1: 1: 0: 0:   1           0
+10145   1   835  2724  PREVIOUS YEAR SURF FRACTIONS (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   851  2741  CARBON POOL LABILE ON TILES          101: 1: 1: 0: 0:   1           0
+10145   1   852  2758  CARBON POOL PLANT - LEAF ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   853  2775  CARBON POOL PLANT - WOOD ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   854  2792  CARBON POOL PLANT - ROOT ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   855  2809  CARBON POOL LITTER - METB ON TILES   101: 1: 1: 0: 0:   1           0
+10145   1   856  2826  CARBON POOL LITTER - STR ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   857  2843  CARBON POOL LITTER - CWD ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   858  2860  CARBON POOL SOIL - MIC ON TILES      101: 1: 1: 0: 0:   1           0
+10145   1   859  2877  CARBON POOL SOIL - SLOW ON TILES     101: 1: 1: 0: 0:   1           0
+10145   1   860  2894  CARBON POOL SOIL - PASS ON TILES     101: 1: 1: 0: 0:   1           0
+10145   1   861  2911  NITROGEN POOL PLANT - LEAF ON TILES  101: 1: 1: 0: 0:   1           0
+10145   1   862  2928  NITROGEN POOL PLANT - WOOD ON TILES  101: 1: 1: 0: 0:   1           0
+10145   1   863  2945  NITROGEN POOL PLANT - ROOT ON TILES  101: 1: 1: 0: 0:   1           0
+10145   1   864  2962  NITROGEN POOL LITTER - METB ON TILES 101: 1: 1: 0: 0:   1           0
+10145   1   865  2979  NITROGEN POOL LITTER - STR ON TILES  101: 1: 1: 0: 0:   1           0
+10145   1   866  2996  NITROGEN POOL LITTER - CWD ON TILES  101: 1: 1: 0: 0:   1           0
+10145   1   867  3013  NITROGEN POOL SOIL - MIC ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   868  3030  NITROGEN POOL SOIL - SLOW ON TILES   101: 1: 1: 0: 0:   1           0
+10145   1   869  3047  NITROGEN POOL SOIL - PASS ON TILES   101: 1: 1: 0: 0:   1           0
+10145   1   870  3064  NITROGEN POOL SOIL MINIMUM (TILES)   101: 1: 1: 0: 0:   1           0
+10145   1   871  3081  PHOSPHORUS POOL PLANT - LEAF (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   872  3098  PHOSPHORUS POOL PLANT - WOOD (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   873  3115  PHOSPHORUS POOL PLANT - ROOT (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   874  3132  PHOSPHORUS POOL LITTER- METB (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   875  3149  PHOSPHORUS POOL LITTER - STR (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   876  3166  PHOSPHORUS POOL LITTER - CWD (TILES) 101: 1: 1: 0: 0:   1           0
+10145   1   877  3183  PHOSPHORUS POOL SOIL - MIC (TILES)   101: 1: 1: 0: 0:   1           0
+10145   1   878  3200  PHOSPHORUS POOL SOIL - SLOW (TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   879  3217  PHOSPHORUS POOL SOIL - PASS (TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   880  3234  PHOSPHORUS POOL SOIL LABILE (TILES)  101: 1: 1: 0: 0:   1           0
+10145   1   881  3251  PHOSPHORUS POOL SOIL SORB ON TILES   101: 1: 1: 0: 0:   1           0
+10145   1   882  3268  PHOSPHORUS POOL SOIL OCC ON TILES    101: 1: 1: 0: 0:   1           0
+10145   1   883  3285  SOIL ORDER (VALUE FROM 1 TO 12)      101: 1: 1: 0: 0:   1           0
+10145   1   884  3286  NITROGEN DEPOSITION                  101: 1: 1: 0: 0:   1           0
+10145   1   885  3287  NITROGEN FIXATION                    101: 1: 1: 0: 0:   1           0
+10145   1   887  3288  PHOSPHORUS FROM DUST                 101: 1: 1: 0: 0:   1           0
+10145   1   888  3289  PHOSPHORUS FROM WEATHERING           101: 1: 1: 0: 0:   1           0
+10145   1   893  3290  LEAF AREA INDEX (CASA-CNP GLAI)      101: 1: 1: 0: 0:   1           0
+10145   1   894  3307  PHENOLOGY PHASE (CASA-CNP)           101: 1: 1: 0: 0:   1           0
+10145   1   895  3324  WOOD FLUX CARBON    (CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   896  3341  WOOD FLUX NITROGEN  (CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   897  3358  WOOD FLUX PHOSPHORU (CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   898  3375  WOOD HARVEST CARBON1(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   899  3392  WOOD HARVEST CARBON2(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   900  3409  WOOD HARVEST CARBON3(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   901  3426  WOOD HARVEST NITROG1(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   902  3443  WOOD HARVEST NITROG2(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   903  3460  WOOD HARVEST NITROG3(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   904  3477  WOOD HARVEST PHOSPH1(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   905  3494  WOOD HARVEST PHOSPH2(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   906  3511  WOOD HARVEST PHOSPH3(CASA-CNP)       101: 1: 1: 0: 0:   1           0
+10145   1   916  3528  WOOD THINNING RATIO (CASA-CNP)       101: 1: 1: 0: 0:   1           0
+27840   1  3100  3545  FLUX OF TRACER 1 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3101  3546  FLUX OF TRACER 2 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3102  3547  FLUX OF TRACER 3 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3103  3548  FLUX OF TRACER 4 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3104  3549  FLUX OF TRACER 5 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3105  3550  FLUX OF TRACER 6 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3106  3551  FLUX OF TRACER 7 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3107  3552  FLUX OF TRACER 8 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3108  3553  FLUX OF TRACER 9 IN BL     KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3109  3554  FLUX OF TRACER 10 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3110  3555  FLUX OF TRACER 11 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3111  3556  FLUX OF TRACER 12 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3112  3557  FLUX OF TRACER 13 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3113  3558  FLUX OF TRACER 14 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3114  3559  FLUX OF TRACER 15 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3115  3560  FLUX OF TRACER 16 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3116  3561  FLUX OF TRACER 17 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3117  3562  FLUX OF TRACER 18 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3118  3563  FLUX OF TRACER 19 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1  3119  3564  FLUX OF TRACER 20 IN BL    KG/M**2/S 101: 1: 1: 0: 0:   1           0
+27840   1 33001  3565  ATM TRACER  1               AFTER TS 101: 1: 1: 0: 0:   1           0
+27840   1 33002  3603  ATM TRACER  2               AFTER TS 101: 1: 1: 0: 0:   1           0
