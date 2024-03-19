@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # PROJECT='y99' # Here you can specify a project or else it uses your default project
-EXP='solo150'
+EXP='twins'
 ANCILDIR='/g/data/w40/dkh157/access_idealised/ancils/'${EXP}'/'
 INPUTDIR="/g/data/$PROJECT/$USER/access_esm/input/${EXP}/"
 RESTARTDIR="/g/data/$PROJECT/$USER/access_esm/restart/${EXP}/"
@@ -9,7 +9,7 @@ RUNDIR='/home/157/dkh157/ACCESS/'${EXP}'/'
 
 BASE_INPUT='/g/data/w40/dkh157/access_esm_pi/input/'
 BASE_RESTART='/g/data/w40/dkh157/access_esm_pi/restart/'
-BASE_RUNDIR='/home/157/dkh157/ACCESS/PI/'
+BASE_RUNDIR='/home/157/dkh157/ACCESS/PI_ideal/'
 
 mkdir -p $INPUTDIR $RESTARTDIR $RUNDIR
 

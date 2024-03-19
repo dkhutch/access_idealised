@@ -43,6 +43,14 @@ min_depth = 40
 ind = np.logical_and(topo_oc > 0, topo_oc < min_depth)
 topo_oc[ind] = min_depth
 
+# Make Arctic channel:
+j1 = 234
+j2 = 278
+i1 = 265
+i2 = 275
+
+topo_oc[j1:j2, i1:i2] = 100.
+
 ds_o = xr.Dataset(coords={
     "lon": (("y","x"), oc_x[1::2,1::2]),
     "lat": (("y","x"), oc_y[1::2,1::2])    
