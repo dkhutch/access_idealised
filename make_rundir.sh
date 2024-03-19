@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # PROJECT='y99' # Here you can specify a project or else it uses your default project
-EXP='twins'
+EXP='solo150'
 ANCILDIR='/g/data/w40/dkh157/access_idealised/ancils/'${EXP}'/'
 INPUTDIR="/g/data/$PROJECT/$USER/access_esm/input/${EXP}/"
 RESTARTDIR="/g/data/$PROJECT/$USER/access_esm/restart/${EXP}/"

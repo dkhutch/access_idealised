@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXP='twins'
+EXP='solo150'
 INPUTDIR='/g/data/w40/dxd565/gfdl-model/experiments/'${EXP}'/input/'
 CODEDIR='/g/data/w40/dkh157/access_idealised/'
 ANCILDIR='/g/data/w40/dkh157/access_idealised/ancils/'${EXP}'/'
