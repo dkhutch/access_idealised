@@ -5,7 +5,7 @@ INPUTDIR='/g/data/w40/dxd565/gfdl-model/experiments/'${EXP}'/input/'
 CODEDIR='/g/data/w40/dkh157/access_idealised/'
 ANCILDIR='/g/data/w40/dkh157/access_idealised/ancils/'${EXP}'/'
 
-export PYTHONPATH=/g/data/access/projects/access/apps/pythonlib/umfile_utils/:$PYTHONPATH
+export PYTHONPATH=/g/data/access/projects/access/apps/pythonlib/umfile_utils/
 
 #--------------------
 # Step 1: Make ocean
